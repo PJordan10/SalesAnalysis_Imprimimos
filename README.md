@@ -52,6 +52,7 @@ I applied a strict data integrity workflow to ensure the insights were trustwort
 
 ## 📦 Project Files
 | File | Description |
+| :--- | :--- |
 | `sales_analysis_plot.png` | Chart showing the evolution of the sales channels. |
 | `dataset imprimimos original.xlsx` | Original 15-year company sales dataset (Anonymized). |
 | `Imprimimos_Analysis.ipynb` | **The Main Analysis.** Step-by-step cleaning, code, and insights. |
