@@ -87,7 +87,8 @@ With additional data, this analysis could be extended to:
 ---
 
 ## 🌟 Credits
-Created and developed by **Jordan Porras**
+Created and developed by [Jordan Porras](https://github.com/PJordan10)
+
 I welcome feedback, questions, and collaboration opportunities. Feel free to reach out:  
 📧 jporras1994@email.com  
 
