@@ -3,8 +3,7 @@
 ## 📌 Overview
 This project analyzes **15 years of historical sales data** for *Imprimimos*, a printing company, to identify revenue drivers, margin behavior, and business risks. The goal: transform raw transactional logs into decision-ready insights.
 
-![Dashboard Preview](sales_analysis_plot.png) 
-*(Note: Upload a screenshot of your Plotly chart to the repo and link it here)*
+![Dashboard Preview](sales_analysis_plot.png)
 
 ---
 
@@ -31,7 +30,7 @@ I applied a strict data integrity workflow to ensure the insights were trustwort
 ---
 
 ## 📊 Key Insights
-- **Digital Transformation:** A **40% shift** from physical to digital channels has occurred since **2015**, validating recent marketing investments.
+- **Digital Transformation:** A **54% shift** from physical to digital channels occurred in **2024**.
 - **Concentration Risk:** The top client drives a significant portion of *Profit* (not just Revenue), creating a stability risk.
 - **Seasonality:** Demand peaks consistently in **February and July**, while December shows a historical dip.
 
@@ -45,7 +44,7 @@ I applied a strict data integrity workflow to ensure the insights were trustwort
 ---
 
 ## 🛠 Tools & Technologies
-- **Python:** Pandas, NumPy
+- **Python:** Pandas
 - **Visualization:** Plotly (Interactive), Seaborn, Matplotlib
 - **Environment:** Jupyter Notebook
 
@@ -53,7 +52,7 @@ I applied a strict data integrity workflow to ensure the insights were trustwort
 
 ## 📦 Project Files
 | File | Description |
-| :--- | :--- |
+| `sales_analysis_plot.png` | Chart showing the evolution of the sales channels. |
 | `dataset imprimimos original.xlsx` | Original 15-year company sales dataset (Anonymized). |
 | `Imprimimos_Analysis.ipynb` | **The Main Analysis.** Step-by-step cleaning, code, and insights. |
 
